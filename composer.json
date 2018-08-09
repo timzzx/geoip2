@@ -1,0 +1,6 @@
+{
+    "require": {
+        "geoip2/geoip2": "^2.9",
+        "workerman/workerman": "^3.5"
+    }
+}
